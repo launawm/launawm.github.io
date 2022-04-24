@@ -1,0 +1,42 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ffffff;
+  border-top: #d2e1c8;
+  border-bottom: #d2e1c8;
+}
+
+#about {
+  background-color: #d2f3e0;
+}
+#projects {
+  background-color: #ffffff;
+}
+
+#Education {
+  background-color: #ffffff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+body {
+  font-family: "PT Sans", sans-serif;
+  background-color: #d2f3e0;
+}
+
+nav {
+  font-family: "Lalezar", cursive;
+}
+
+.nav-item:hover {
+  background-color: #cfe5cf;
+}
+
+.nav-link {
+  color: #ffffff;
+}
+
+#Pesan {
+  box-shadow: shadow-sm p-3;
+}
