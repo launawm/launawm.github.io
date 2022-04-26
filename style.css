@@ -1,19 +1,30 @@
 .jumbotron {
-  padding-top: 6rem;
+  padding-top: 8rem;
   background-color: #ffffff;
   border-top: #d2e1c8;
   border-bottom: #d2e1c8;
+  min-height: 680px;
 }
 
 #about {
+  font-family: "PT Sans", sans-serif;
   background-color: #d2f3e0;
 }
-#projects {
-  background-color: #ffffff;
+.about {
+  font-family: "Palanquin Dark", sans-serif;
+  color: #ef6d6d;
 }
-
-#Education {
+#Portofolio {
+  background-color: #d2f3e0;
+  box-shadow: #ef6d6d;
+}
+.portopolio {
+  font-family: "Palanquin Dark", sans-serif;
+  color: #ef6d6d;
+}
+#Resume {
   background-color: #ffffff;
+  min-height: 600px;
 }
 
 section {
@@ -37,6 +48,53 @@ nav {
   color: #ffffff;
 }
 
-#Pesan {
+#Message {
   box-shadow: shadow-sm p-3;
+}
+
+.contact {
+  font-family: "Palanquin Dark", sans-serif;
+  color: #ef6d6d;
+}
+
+.Education {
+  font-family: "Palanquin Dark", sans-serif;
+  color: #ef6d6d;
+}
+.Internship {
+  font-family: "Palanquin Dark", sans-serif;
+  color: #ef6d6d;
+}
+.Organization {
+  font-family: "Palanquin Dark", sans-serif;
+  color: #ef6d6d;
+}
+
+.hard {
+  font-family: "Palanquin Dark", sans-serif;
+  color: #f9d371;
+}
+.soft {
+  font-family: "Palanquin Dark", sans-serif;
+  color: #f9d371;
+}
+.skill {
+  font-family: "Palanquin Dark", sans-serif;
+  color: #ef6d6d;
+}
+#Skill {
+  font-family: "PT Sans", sans-serif;
+  background-color: #ffffff;
+}
+
+.display-4 {
+  font-family: "Jaldi", sans-serif;
+  color: #5e9387;
+}
+.lead {
+  font-family: "Cantarell", sans-serif;
+  color: #83bd75;
+}
+.img {
+  float: left;
 }
